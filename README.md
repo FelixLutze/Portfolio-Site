@@ -1,11 +1,9 @@
 # Portfolio-Site
-Responsitive Portfolio site representing myself.
-
-Written in HTML and CSS.
+Responsive Portfoliosite which supports all common media devices.
 
 ## Getting Started
 
-Try it out on https://dev.felixlutze.net/portfolio-site/
+Try it out at https://dev.felixlutze.net/portfolio-site/
 
 ## Examples
 ### Desktop
@@ -14,7 +12,3 @@ Try it out on https://dev.felixlutze.net/portfolio-site/
 ![Tablet](https://dev.felixlutze.net/imgs/portfolio-site-tablet.png "Tablet")
 ### Mobile
 ![Mobile](https://dev.felixlutze.net/imgs/portfolio-site-mobile.png "Mobile")
-
-### Prerequisites
-
-A modern Webbrowser like Firefox or Chrome is recommended.
